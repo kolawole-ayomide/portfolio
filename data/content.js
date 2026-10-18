@@ -93,7 +93,7 @@ export const smallerBuilds = [
 export const profile = {
   email: "ayo4real26@gmail.com",
   github: "https://github.com/kolawole-ayomide",
-  linkedin: "https://linkedin.com/in/your-handle",
+  linkedin: "https://www.linkedin.com/in/kolawole-ayomide/?isSelfProfile=true",
 };
 
 export const stack = [
